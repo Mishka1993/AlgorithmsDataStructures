@@ -74,7 +74,7 @@ void solution1()
     printf("Solution 1 Написать функции, которые считывают матрицу смежности из файла и выводят ее на экран.\n");
     
     
-    const char* filename = "/AlgorithmsDataStructuresGB/AlgorithmsDataStructuresGB/data.txt";
+    const char* filename = "/AlgorithmsDataStructuresGB/AlgorithmsDataStructures/data.txt";
     
     printf("Результат: ");
     printf("\n");
